@@ -1,8 +1,6 @@
 __pycache__/
 *.pyc
 *.pyo
-*.pth
-results/
 figures/
 *.docx
 *.doc
@@ -11,6 +9,3 @@ figures/
 *.png
 *.jpg
 *.jpeg
-*.csv
-*.json
-!results/.gitkeep
