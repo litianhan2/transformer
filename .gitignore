@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+results/
+figures/
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.json
+!results/.gitkeep
